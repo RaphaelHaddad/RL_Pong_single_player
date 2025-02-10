@@ -1,7 +1,7 @@
 # Single Player Pong with Advanced Deep RL 🎮
 
 <p align="center">
-    <img src="pong_demo.gif" alt="Pong Demo" width="600"/>
+    <img src="pong_demo.gif" alt="Pong Demo" width="1020"/>
     <br>
     <em>Multiple agents playing Pong simultaneously at different training stages</em>
 </p>
